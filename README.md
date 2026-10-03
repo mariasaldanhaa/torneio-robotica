@@ -5,7 +5,7 @@ Repositório com os códigos desenvolvidos para o robô utilizado no **Torneio d
 O projeto foi desenvolvido em equipe e teve como objetivo programar o comportamento autônomo do robô durante a competição. O robô utilizava sensores para identificar o adversário e as bordas da arena, além de motores controlados por diferentes velocidades para realizar movimentos de busca, ataque e retorno à arena.
 
 <p align="center">
-  <img src="imagens/robo.jpg" alt="Robô utilizado no Torneio de Robótica" width="500">
+  <img src="images/robo.jpg" alt="Robô utilizado no Torneio de Robótica" width="500">
 </p>
 
 ## Resultado
