@@ -84,4 +84,5 @@ Os arquivos deste repositório incluem o código principal utilizado no robô e 
 
 ## Equipe
 
-Projeto desenvolvido em equipe para participação no **Torneio de Robótica do IFMG – Campus Bambuí**.
+- Fabíola Faria
+- Maria Eduarda Saldanha Alves
